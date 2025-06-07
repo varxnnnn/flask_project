@@ -26,5 +26,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: varun615768/flask-devops-app:latest
+          tags: varun615768/flask_project:latest
 

@@ -16,4 +16,4 @@ spec:
         - name: flask-container
           image: varun615768/flask-devops-assignment:latest
           ports:
-            - containerPort: 5000
+            - containerPort: 8000
